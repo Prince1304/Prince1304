@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Website&logoColor=white)](https://prince07.pythonanywhere.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itz_k.p._official/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kyada-prince-2b9b47299/) 
 
 # 💻 Tech Stack:
