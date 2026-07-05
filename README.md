@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prince1304&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
