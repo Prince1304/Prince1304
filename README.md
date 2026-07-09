@@ -1,6 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=850&lines=%3C%2F%3E+FULL+STACK+WEB+DEVELOPER+%3C%2F%3E;%F0%9F%92BB+FRONTEND+%7C+BACKEND+%7C+DATABASE;%F0%9F%93%9D+WEB+SCRAPING+%26+AUTOMATION;%F0%9F%90%B1%E2%80%8D%F0%9F%92BB+CREATIVE+DESIGN+%26+UI%2FUX" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <a href="https://prince07.pythonanywhere.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECTED%20TO-PRINCE07.PYTHONANYWHERE.COM-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g0Y2ptYm56Y2I5M2ZidHloY2N6am1wOHM3ZDNwZnZ4NjV3Y29hMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Coding Sticker" />
