@@ -1,9 +1,8 @@
-<h1 align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g0Y2ptYm56Y2I5M2ZidHloY2N6am1wOHM3ZDNwZnZ4NjV3Y29hMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Sticker" />
+  <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=850&lines=%F0%9F%8E%AD+FULL+STACK+WEB+DEVELOPER+%F0%9F%8E%AD;%E2%9A%A1+FRONTEND+%7C+BACKEND+%7C+DATABASE+%E2%9A%A1;%F0%9F%A4%96+WEB+SCRAPING+%26+AUTOMATION+%F0%9F%A4%96;%E2%9C%A8+CREATIVE+DESIGN+%E2%9C%A8" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g0Y2ptYm56Y2I5M2ZidHloY2N6am1wOHM3ZDNwZnZ4NjV3Y29hMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Coding Sticker" />
 </p>
 
 <p align="center">
