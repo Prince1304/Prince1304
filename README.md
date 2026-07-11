@@ -1,3 +1,7 @@
+<h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=10000&pause=600000000&color=00FFCC&center=true&vCenter=true&width=850&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hii+I'm+Prince+Kyada" alt="Typing SVG" />
+</h1>
+</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g0Y2ptYm56Y2I5M2ZidHloY2N6am1wOHM3ZDNwZnZ4NjV3Y29hMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Sticker" />
   <h1 align="center">
